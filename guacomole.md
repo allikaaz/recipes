@@ -1,6 +1,6 @@
 #ingredients
 avocado
-lime
+lemon juice
 salt
 
 #Instructions
