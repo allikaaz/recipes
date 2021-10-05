@@ -1,6 +1,6 @@
 #ingredients
 avocado
-lemon juice
+vinegar
 salt
 
 #Instructions
